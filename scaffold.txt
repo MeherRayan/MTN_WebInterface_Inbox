@@ -1,0 +1,2 @@
+
+scaffold-dbcontext "server=localhost;user=sa;password=MRTr@yan@#$;database=NegarDB;persistsecurityinfo=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DB -t T_Inbox_MTN -force 

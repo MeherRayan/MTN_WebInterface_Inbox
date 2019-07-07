@@ -1,0 +1,4 @@
+complite MTN web interface include
+1- syncOrder
+2- SMS notify
+3- SMS delivery notify
