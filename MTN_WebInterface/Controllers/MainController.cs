@@ -26,7 +26,7 @@ namespace MTN_WebInterface_Inbox.Controllers
                 //find body elman
                 Dictionary<string, string> BodyElement = Helper.ParamHelper.GetParam(SoapData, Helper.ParamHelper.notifySmsReceipt);
 
-                //put on db
+                //put on db 123
                 using (var dbcontext = new DB.NegarDBContext())
                 {
                     dbcontext.TInboxMtn.Add(new DB.TInboxMtn()
